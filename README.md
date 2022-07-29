@@ -21,4 +21,4 @@ The code is divided in three sections, which we describe in more detail:
 
 ### Design Space
 
-Contains three folders one for each parameter sweep over the three design parameters we consider for the capillary trap geometry: (1) normal force on float, (2) float radius, and (3) contact slope at the channel boundary. See paper for further description of these variables. The first script in each folder runs the parameter sweep and outputs energies as a function of the considered design parameter. The second script plots these numerical results against theoretical predictions derived in the supplement to the paper.
+Contains three folders, one for each parameter sweep over the three design parameters we consider for the capillary trap geometry: (1) normal force on float, (2) float radius, and (3) contact slope at the channel boundary. See paper for further description of these variables. The first script in each folder runs the parameter sweep and outputs energies as a function of the considered design parameter. The second script plots these numerical results against theoretical predictions derived in the supplement to the paper.
